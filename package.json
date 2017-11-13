@@ -1,0 +1,15 @@
+{
+  "name": "m2rewrites",
+  "version": "1.0.0",
+  "description": "Magento 2 rewrites generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mario HD",
+  "license": "ISC",
+  "devDependencies": {
+    "csv2sql-lite": "0.0.6",
+    "fast-csv": "^2.4.1"
+  }
+}
